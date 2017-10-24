@@ -1,0 +1,16 @@
+{
+  "name": "magic-mirror",
+  "version": "1.0.0",
+  "description": "Interface for generally useful information to start the day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "magic-mirror",
+    "magic",
+    "mirror"
+  ],
+  "author": "Nick Flynn",
+  "license": "ISC"
+}
